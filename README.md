@@ -44,7 +44,19 @@ public class Inhrtance {
 //		String empdata=e.getdetails();
 //		System.out.println(empdata);
          Manager mg= new Manager();
+
+
          System.out.println(mg.getdetails());
 	}
 
 }
+
+
+  ===============================================================================================================================================================================================================
+  
+![image](https://github.com/user-attachments/assets/3929d36f-3e5b-4927-853a-151530cfd01f)
+![image](https://github.com/user-attachments/assets/e9de5142-d067-4c83-8979-9f9b50f19a3d)
+![image](https://github.com/user-attachments/assets/36467414-07a3-4ff6-ad0a-fa77c9fb495f)
+
+
+
